@@ -60,7 +60,7 @@
 ## 📈 Статистика GitHub
 
 ![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=Rapunzel-Chan&show_icons=true&theme=radical)
-![Profile view counter](https://komarev.com/ghpvc/?username=Rapunzel‑Chan&color=radical)
+![](https://komarev.com/ghpvc/?username=Rapunzel-Chan&style=flat-square&color=blue)
 
 ---
 
